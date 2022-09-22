@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there I'm Jesus👋
+🔭 I'm interested in learning new programming languages
+🌱 I’m currently learning C#/.NET, Rust, and much more!
+📫 Reach me on Discord @ Chief22#2789
 <!--
 **JesusM2011/JesusM2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
